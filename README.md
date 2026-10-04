@@ -1,6 +1,8 @@
 # Teach a Machine!
 
-**[Open the tutorial slides](https://chiningchang.github.io/Teach-a-Machine/)**
+**[Open the step-by-step tutorial](https://chiningchang.github.io/Teach-a-Machine/)**
+
+[View the classroom slides](https://chiningchang.github.io/Teach-a-Machine/slides.html)
 
 An introductory tutorial for building an image classification application with **Google Teachable Machine + Scratch**, using the TM2Scratch extension in Stretch3. No prior coding experience is required.
 
@@ -16,7 +18,9 @@ It includes simple explanations of **epochs, batch size, learning rate, confiden
 
 ## Open the tutorial
 
-Download `index.html` and open it in a browser such as Chrome. The screenshots, 22-second opening video, and downloadable Scratch example are embedded in the HTML file.
+Open the [step-by-step tutorial](https://chiningchang.github.io/Teach-a-Machine/) online, or use the [classroom slides](https://chiningchang.github.io/Teach-a-Machine/slides.html).
+
+For offline use, download `index.html` for the webpage tutorial or `slides.html` for the slide presentation and open it in a browser such as Chrome. The screenshots, 22-second opening video, and downloadable Scratch example are embedded in the HTML file.
 
 - Use the **left and right arrow keys** or **Back / Next** buttons to change slides.
 - Use the slide selector to jump to a specific slide.
