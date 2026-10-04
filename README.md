@@ -1,5 +1,7 @@
 # Teach a Machine!
 
+**[Open the tutorial slides](https://chiningchang.github.io/Teach-a-Machine/)**
+
 An introductory tutorial for building an image classification application with **Google Teachable Machine + Scratch**, using the TM2Scratch extension in Stretch3. No prior coding experience is required.
 
 Created for **EDUS 268: AI & ML in Education** at Virginia Commonwealth University.
