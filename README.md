@@ -47,3 +47,9 @@ To inspect the example project, download the `.sb3` file from **Slide 21**, then
 Screenshots, opening video, and example Scratch project supplied by Nick Chang.
 
 TM2Scratch is licensed under **AGPL-3.0**. Copyright © 2020 Junya Ishihara and Koji Yokokawa. That license applies to TM2Scratch and does not establish a license for this tutorial.
+
+## Opening video music
+
+“Carefree” by Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037)), licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+The music excerpt was trimmed to 22 seconds, mixed at low volume under the original speech, and given fade-in and fade-out effects.
